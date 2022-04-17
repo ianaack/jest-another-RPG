@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "CLI RPG Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianaack/jest-another-RPG.git"
+  },
+  "author": "Ian Ackerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianaack/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/ianaack/jest-another-RPG#readme"
+}
